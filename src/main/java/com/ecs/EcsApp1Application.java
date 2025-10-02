@@ -9,6 +9,7 @@ public class EcsApp1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(EcsApp1Application.class, args);
     	System.out.println("hello world");
+    	System.out.println("Testing to check jenkins build");
 	}
 
 }
