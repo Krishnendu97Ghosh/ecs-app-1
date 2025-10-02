@@ -74,6 +74,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>app1</finalName>
 	</build>
 
 </project>
